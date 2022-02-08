@@ -1,4 +1,4 @@
-# DiversifyNFT
+# HipAssApesNFT
 
 - Two types of NFTs Main and Item
 - `tokenURI()` can be changed by team.
@@ -9,7 +9,7 @@
 
 ```
 {
-   "name":"DiversifyNFT",
+   "name":"HipAssApes",
    "description":"",
    "external_url":"",
    "image":"",
@@ -42,7 +42,7 @@
 
 ```
 {
-  "name": "DiversifyNFT",
+  "name": "HipAssApesNFT",
   "description": "",
   "external_url": "",
   "image": "",
